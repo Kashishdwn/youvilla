@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Problem</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div  class="container">
+<div class="input-group"><input id="search" type="text" class="form-control" placeholder="Search"><span class="input-group-addon"><a href="#"><i class="glyphicon glyphicon-search"></i></a></span></div>
+<ul class="list-group" id="abc">
+<li class="list-group-item"><a href="service/AC Repair/acrepair.html">AC Repair & Service</a></li>
+<li class="list-group-item"><a href="service/Electrician/electrician.html">Electrician</a></li>
+<li class="list-group-item"><a href="service/Television Repair/televisionrepair.html">Television Repair</a></li>
+<li class="list-group-item"><a href="service/Air Cooler Repair/aircoolerrepair.html">Air Cooler Repair</a></li>
+<li class="list-group-item"><a href="service/Water Purifier/waterpurifier.html">Water Purifier</a></li>
+<li class="list-group-item"><a href="service/Washing Machine/washingmachine.html">Washing Machine</a></li>
+<li class="list-group-item"><a href="service/House Painter/housepainter.html">House Painter</a></li>
+<li class="list-group-item"><a href="service/Interior Designer/interiordesigner.html">Interior Designer</a></li>
+<li class="list-group-item"><a href="service/Plumber/plumber.html">Plumber</a></li>
+<li class="list-group-item"><a href="service/Carpenter/carpenter.html">Carpenter</a></li>
+<li class="list-group-item"><a href="service/Handyman/handyman.html">Handyman</a></li>
+<li class="list-group-item"><a href="service/Water Tank Cleaning/watertankcleaning.html">Water Tank Cleaning</a></li>
+<li class="list-group-item"><a href="service/Sofa Cleaning/sofacleaning.html">Sofa Cleaning</a></li>
+<li class="list-group-item"><a href="service/Water Proofing/waterproofing.html">Water Proofing</a></li>
+<li class="list-group-item"><a href="service/Tiles & Marble/tiles&marble.html">Tiles & Marble</a></li>
+<li class="list-group-item"><a href="service/Refrigerator Repair/refrigeratorrepair.html">Refrigerator Repair</a></li>
+<li class="list-group-item"><a href="service/CCTV Installation/cctvinstallation.html">CCTV Installation</a></li>
+<li class="list-group-item"><a href="service/Chimney Repair/chimneyrepair.html">Chimney Repair</a></li>
+<li class="list-group-item"><a href="service/DTH Installation/dthinstallation.html">DTH Installation</a></li>
+<li class="list-group-item"><a href="service/Geyser Repair/geyserrepair.html">Geyser Repair</a></li>
+<li class="list-group-item"><a href="service/Microwave Repair/microwaverepair.html">Microwave Repair</a></li>
+<li class="list-group-item"><a href="service/Inverter Repair/inverterrepair.html">Inverter repair</a></li>
+<li class="list-group-item"><a href="service/PVC Ceiling & Wall/pvcceiling&wall.html">PVC Ceiling & Wall</a></li>
+<li class="list-group-item"><a href="service/POP Ceiling/popceiling.html">POP Ceiling</a></li>
+<li class="list-group-item"><a href="service/Modular Kitchen/modularkitchen.html">Modular Kitchen</a></li>
+<li class="list-group-item"><a href="service/Wallpaper/wallpaper.html">Wallpaper</a></li>
+<li class="list-group-item"><a href="service/Renovation/renovation.html">Renovation</a></li>
+<li class="list-group-item"><a href="service/Wedding Planner/weddingplanner.html">Wedding Planner</a></li>
+<li class="list-group-item"><a href="service/Birthday Organizer/birthdayorganizer.html">Birthday Organizer</a></li>
+<li class="list-group-item"><a href="service/Balloon Decor/balloondecor.html">Balloon Decor</a></li>
+<li class="list-group-item"><a href="service/Photographer/photographer.html">Photographer</a></li>
+</ul>
+</div>
+<script>
+	$("#abc").hide();
+	$("#search").on("blur",function(){$("#abc").hide();});
+	$("#search").on("focus",function(){$("#abc").show();});
+
+	$(document).ready(function(){
+  	$("#search").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#abc li").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+</body>
+</html>

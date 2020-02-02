@@ -1,0 +1,384 @@
+<div class="row">
+<div id="epic-services1" class="owl-carousel owl-theme">
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/ac-service.jpg" alt="AC Service & Repair">
+<div class="caption">
+<h4><b>AC Repair & Service</b></h4>
+<p><a href="#" class="btn" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/electrician.jpg" alt="electrician Service">
+<div class="caption">
+<h4><b>Electrician</b></h4>
+<p><a href="#" class="btn" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/tv-repair.jpg" alt="Tv Repair">
+<div class="caption">
+<h4><b>Television Repair</b></h4>
+<p><a href="#" class="btn" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/cooler-repair.jpg" alt="Air cooler repair">
+<div class="caption">
+<h4><b>Air Cooler Repair</b></h4>
+<p><a href="#" class="btn" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/water-purifier.jpg" alt="water purifier service ro">
+<div class="caption">
+<h4><b>Water purifier</b></h4>
+<p><a rel="canonical" href="#" class="btn" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/washing-machine.jpg" alt="washing machine repair">
+<div class="caption">
+<h4><b>Washing Machine</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/painter-service.jpg" alt="House painter">
+<div class="caption">
+<h4><b>House Painter</b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/interior-designer.jpg" alt="Interior designer">
+<div class="caption">
+<h4><b>Interior Designer</b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<h3>Home Repair & Maintenance</h3>
+</div>
+<div class="row">
+<div id="epic-services2" class="owl-carousel">
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/electrician.jpg" alt="electrician service">
+<div class="caption">
+<h4><b>Electrician</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/plumber-service.jpg" alt="plumber service">
+<div class="caption">
+<h4><b>Plumber</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/carpenter-service.jpg" alt="Crapenter service">
+<div class="caption">
+<h4><b>Carpenter</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/handyman.jpg" alt="Handyman service">
+<div class="caption">
+<h4><b>Handyman</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/water-tank-cleaning-services.jpg" alt="water cleaning service">
+<div class="caption">
+<h4><b>Water Tank Cleaning</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/sofa-cleaning.jpg" alt="sofa cleaning service">
+<div class="caption">
+<h4><b>Sofa Cleaning</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/waterproofing.jpg" alt="water proofing service">
+<div class="caption">
+<h4><b>Water Proofing</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/tiles.jpg" alt="tiles and marble fitting">
+<div class="caption">
+<h4><b>Tiles & Marble</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<h3>Appliance Repair & Service</h3>
+</div>
+<div class="row">
+<div id="epic-services3" class="owl-carousel">
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/ac-service.jpg" alt="Ac service and repair">
+<div class="caption">
+<h4><b>AC Repair & Service</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/fridge-repair.jpg" alt="Refrigerator Repair">
+<div class="caption">
+<h4><b>Refrigerator Repair</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/water-purifier.jpg" alt="water purifier">
+<div class="caption">
+<h4><b>Water Purifier</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/tv-repair.jpg" alt="Tv Repair">
+<div class="caption">
+<h4><b>Television Repair</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/cctv-install.jpg" alt="CCTV Installation service">
+<div class="caption">
+<h4><b>CCTV Installation</b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/chimney.jpg" alt="chimney repair service">
+<div class="caption">
+<h4><b>Chimney Repair</b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/DTH.jpg" alt="DTH Installation service">
+<div class="caption">
+<h4><b>DTH Installation</b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/geyser.jpg" alt="gyser repair">
+<div class="caption">
+<h4><b>Geyser Repair</b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/washing-machine.jpg" alt="washing machine">
+<div class="caption">
+<h4><b>Washing Machine </b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/cooler-repair.jpg" alt="Cooler repair">
+<div class="caption">
+<h4><b>Cooler Repair </b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/microwave.jpg" alt="microwave repair">
+<div class="caption">
+<h4><b>Microwave Repair </b></h4>
+<p><a rel="canonical" href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/inverter.jpg" alt="Inverter repair">
+<div class="caption">
+<h4><b>Inverter repair </b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<h3>Home Decor</h3>
+</div>
+<div class="row">
+<div id="epic-services4" class="owl-carousel">
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/interior-designer.jpg" alt="interior designer">
+<div class="caption">
+<h4><b>Interior Designer</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/pvc-ceiling.jpg" alt="PVC False ceiling and wall">
+<div class="caption">
+<h4><b>PVC Ceiling & Wall</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/pop-ceiling.jpg" alt="pop ceiling">
+<div class="caption">
+<h4><b>POP Ceiling</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/painter-service.jpg" alt="painter service">
+<div class="caption">
+<h4><b>Painter Service</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/modular-kitchen.jpg" alt="modular kitchen">
+<div class="caption">
+<h4><b>Modular Kitchen</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/wallpaper.jpg" alt="wallpaper design work">
+<div class="caption">
+<h4><b>Wallpaper</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/renovation.jpg" alt="renovation ">
+<div class="caption">
+<h4><b>Renovation</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<h3>Event Organizer</h3>
+</div>
+<div class="row">
+<div id="epic-services5" class="owl-carousel">
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/wedding-planner.jpg" alt="Wedding planner">
+<div class="caption">
+<h4><b>Wedding Planner</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/birthday-organizer.jpg" alt="Birthday organizer service">
+<div class="caption">
+<h4><b>Birthday Organizer</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/balloon-decor.jpg" alt="balloon decor">
+<div class="caption">
+<h4><b>Balloon Decor</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+<div class="item item-service">
+<div class="thumbnail">
+<img src="image/photographer.jpg" alt="photographer service">
+<div class="caption">
+<h4><b>Photographer</b></h4>
+<p><a href="/" class="button" style="vertical-align:middle" role="button"><span>BOOK</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
